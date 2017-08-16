@@ -1,5 +1,6 @@
-
 # JavaScript 编码规范指南
+
+原文地址：[@hustcer/jStyle](https://github.com/hustcer/jStyle/blob/master/README.md)
 
 #### 以下文档大多来自:
 * [Google JavaScript 编码规范指南](http://alloyteam.github.io/JX/doc/specification/google-javascript.xml)
